@@ -1,6 +1,6 @@
-# DoWFrance
+# DoWFrance Days of War French Community
 www.dowfrance.com
 
-File : 
-DoWFrance-Server-Blacklist.txt - List of players banned on our servers
+File available : 
+DoWFrance-Server-Blacklist.txt - List of banned players on our servers
 
