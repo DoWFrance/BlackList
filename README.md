@@ -1,4 +1,4 @@
-# DoWFrance.com : Days of War French Community
+# DoWFrance : Days of War French Community
 www.dowfrance.com
 
 
