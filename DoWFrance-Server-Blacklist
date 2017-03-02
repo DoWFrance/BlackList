@@ -1,0 +1,26 @@
+*************************************
+*    DoWFrance Server Blacklist     *
+*************************************
+*     Last update - 02/03/2017      *
+*************************************
+
+FR : Pour ajouter les joueurs, copier/coller les lignes des joueurs dans votre fichier Game.ini à la fin de la section :
+EN : To add players, copy/paste players lines in your Game.ini config at the end of the section :
+[/Script/DaysOfWar.ShooterGameInstance]
+
+Glitch Sky Spawn Nading
+*************************************
+BannedPlayers=(PlayerUniqueID="76561198088703375",PlayerName="DreiradPanzer",PlayerIPAddress="",bIsAdmin=False,bIsBanned=True,BannedDate="2017-03-01T21:16:11.563Z",BanReason="You have been banned by admin!")
+BannedPlayers=(PlayerUniqueID="76561198330366874",PlayerName="born",PlayerIPAddress="",bIsAdmin=False,bIsBanned=True,BannedDate="2017-03-01T21:38:33.750Z",BanReason="You have been banned by admin!")
+
+
+Team Killing
+*************************************
+
+
+Others
+*************************************
+
+
+Cheating
+*************************************
