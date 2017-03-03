@@ -16,7 +16,8 @@ BannedPlayers=(PlayerUniqueID="76561198330366874",PlayerName="born",PlayerIPAddr
 
 Team Killing
 *************************************
-
+BannedPlayers=(PlayerUniqueID="76561198358035891",PlayerName="sq",PlayerIPAddress="",bIsAdmin=False,bIsBanned=True,BannedDate="2017-03-03T12:00:0.750Z",BanReason="You have been banned by admin!")
+BannedPlayers=(PlayerUniqueID="76561198107048229",PlayerName="SwiFii",PlayerIPAddress="",bIsAdmin=False,bIsBanned=True,BannedDate="2017-03-03T12:00:0.750Z",BanReason="You have been banned by admin!")
 
 Others
 *************************************
